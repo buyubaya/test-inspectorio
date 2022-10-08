@@ -1,0 +1,24 @@
+@import 'styles';
+
+.wrapper {
+  display: flex;
+}
+
+.avatarArea {
+  min-width: 300px;
+  max-width: 300px;
+}
+
+.detailArea {
+  flex: 1;
+  padding-left: 24px;
+}
+
+.userName {
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+.location {
+  font-style: italic;
+}
